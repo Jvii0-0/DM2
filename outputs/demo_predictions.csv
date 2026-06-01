@@ -1,0 +1,4 @@
+text,.pred_negative,.pred_neutral,.pred_positive,.pred_class
+Flight delayed again and the staff was rude. Terrible experience.,0.8610621690750122,0.10369450598955154,0.03524328023195267,negative
+"Thanks for the quick help at the gate, really appreciate it!",0.17790672183036804,0.012939813546836376,0.8091534376144409,positive
+My flight is scheduled as usual. No updates yet.,0.496963232755661,0.3900383710861206,0.112998366355896,negative
